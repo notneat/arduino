@@ -1,2 +1,2 @@
-# arduino
-The code for my arduino projects are here
+# Arduino
+The code for my arduino projects are here.
